@@ -1,0 +1,101 @@
+Traveller_ID,Name,Origin_Station,Destination_Station,Trips_Per_Month,Total_Fare_Spent_INR,Card_Type,Last_Trip_Date
+TID3023,Sneha Varma,Aluva,Changampuzha Park,53,1176.69,Regular,2025-10-19
+TID3024,Akhil Thomas,Lissie,Pulinchodu,25,402.16,Student,2025-10-21
+TID3025,Reshma Varghese,CUSAT,Elamkulam,75,1734.75,Corporate,2025-10-21
+TID3026,Neha Suresh,Lissie,Palarivattom,57,1194.35,Corporate,2025-10-18
+TID3027,Rahul Raj,Kaloor,Ambattukavu,67,2471.24,Corporate,2025-10-20
+TID3028,Karthik Krishnan,Kadavanthra,Ambattukavu,70,1384.11,Corporate,2025-10-10
+TID3029,Akhil Thomas,CUSAT,Companypady,27,730.63,Corporate,2025-10-19
+TID3030,Divya Pillai,Ambattukavu,Lissie,57,1566.76,Corporate,2025-10-16
+TID3031,Meera Sunil,JLN Stadium,CUSAT,56,1839.73,Regular,2025-10-16
+TID3032,Reshma Varghese,Pathadipalam,Kalamassery,81,2181.99,Student,2025-10-11
+TID3033,Anjali Menon,Pathadipalam,Pulinchodu,62,1651.6,Regular,2025-10-15
+TID3034,Akhil Thomas,Palarivattom,CUSAT,85,2331.48,Senior Citizen,2025-10-17
+TID3035,Farhan Ali,Muttom,Edappally,93,2878.8,Senior Citizen,2025-10-09
+TID3036,Meera Sunil,Pathadipalam,Muttom,87,2587.03,Regular,2025-10-18
+TID3037,Vishnu Das,Kalamassery,M.G. Road,30,681.24,Senior Citizen,2025-10-13
+TID3038,Reshma Varghese,Aluva,Muttom,90,3218.07,Corporate,2025-10-18
+TID3039,Lakshmi Prasad,Lissie,Kalamassery,80,1465.92,Corporate,2025-10-16
+TID3040,Sudeep Kumar,Ambattukavu,Palarivattom,86,2782.72,Student,2025-10-10
+TID3041,Neha Suresh,Kadavanthra,Ernakulam South,22,524.6,Senior Citizen,2025-10-21
+TID3042,Sneha Varma,JLN Stadium,Changampuzha Park,52,965.17,Regular,2025-10-19
+TID3043,Priya Nandan,Companypady,Elamkulam,38,719.5,Senior Citizen,2025-10-16
+TID3044,Farhan Ali,Ernakulam South,Lissie,49,1815.36,Student,2025-10-12
+TID3045,Ravi Chandran,JLN Stadium,Maharaja’s College,88,2534.26,Student,2025-10-14
+TID3046,Rahul Raj,Palarivattom,Aluva,97,3046.32,Student,2025-10-21
+TID3047,Rahul Raj,Pulinchodu,Edappally,30,980.62,Corporate,2025-10-19
+TID3048,Sudeep Kumar,Pathadipalam,Changampuzha Park,84,1952.41,Student,2025-10-06
+TID3049,Divya Pillai,Maharaja’s College,Lissie,46,871.97,Senior Citizen,2025-10-10
+TID3050,Devika Ramesh,Lissie,Maharaja’s College,28,773.52,Regular,2025-10-20
+TID3051,Ravi Chandran,Palarivattom,Ambattukavu,53,1140.33,Senior Citizen,2025-10-17
+TID3052,Devika Ramesh,Kalamassery,Changampuzha Park,81,1942.14,Regular,2025-10-07
+TID3053,Reshma Varghese,Ambattukavu,Pulinchodu,91,3435.66,Regular,2025-10-14
+TID3054,Neha Suresh,Lissie,Ernakulam South,83,1926.12,Senior Citizen,2025-10-20
+TID3055,Neha Suresh,Kaloor,Aluva,71,1704.32,Senior Citizen,2025-10-12
+TID3056,Devika Ramesh,Kadavanthra,Maharaja’s College,41,841.41,Student,2025-10-20
+TID3057,Akhil Thomas,Kadavanthra,Pulinchodu,62,1178.6,Senior Citizen,2025-10-16
+TID3058,Anjali Menon,Ernakulam South,Companypady,45,825.1,Regular,2025-10-14
+TID3059,Ravi Chandran,Ambattukavu,Vytila,53,1585.76,Regular,2025-10-19
+TID3060,Devika Ramesh,Elamkulam,Vytila,88,2260.65,Corporate,2025-10-15
+TID3061,Joseph Mathew,Pathadipalam,Changampuzha Park,72,1512.68,Corporate,2025-10-07
+TID3062,Joseph Mathew,Companypady,Aluva,80,2593.62,Regular,2025-10-19
+TID3063,Reshma Varghese,CUSAT,Kadavanthra,55,1118.95,Corporate,2025-10-19
+TID3064,Divya Pillai,JLN Stadium,Changampuzha Park,42,1083.41,Corporate,2025-10-21
+TID3065,Reshma Varghese,Changampuzha Park,Ambattukavu,39,851.57,Regular,2025-10-17
+TID3066,Farhan Ali,Changampuzha Park,CUSAT,65,1455.22,Corporate,2025-10-06
+TID3067,Farhan Ali,Pulinchodu,Ambattukavu,76,2810.63,Regular,2025-10-21
+TID3068,Joseph Mathew,Muttom,Changampuzha Park,42,1348.58,Senior Citizen,2025-10-21
+TID3069,Sneha Varma,Companypady,Kalamassery,91,1755.66,Corporate,2025-10-17
+TID3070,Devika Ramesh,Muttom,Pulinchodu,61,1572.28,Regular,2025-10-10
+TID3071,Amit Kumar,Pathadipalam,Ambattukavu,67,2370.17,Senior Citizen,2025-10-17
+TID3072,Divya Pillai,Kalamassery,CUSAT,74,1381.52,Corporate,2025-10-08
+TID3073,Divya Pillai,Edappally,Kalamassery,35,827.78,Regular,2025-10-06
+TID3074,Divya Pillai,CUSAT,Maharaja’s College,66,1630.16,Student,2025-10-14
+TID3075,Arjun Nair,CUSAT,Lissie,64,1537.01,Regular,2025-10-13
+TID3076,Meera Sunil,Ernakulam South,Kaloor,90,2347.14,Regular,2025-10-18
+TID3077,Farhan Ali,Kalamassery,Vytila,55,1005.91,Senior Citizen,2025-10-10
+TID3078,Joseph Mathew,Lissie,Kadavanthra,36,859.27,Student,2025-10-13
+TID3079,Anjali Menon,Lissie,Aluva,88,3494.29,Student,2025-10-10
+TID3080,Devika Ramesh,Companypady,JLN Stadium,62,2012.16,Regular,2025-10-12
+TID3081,Sudeep Kumar,Changampuzha Park,M.G. Road,63,1683.36,Corporate,2025-10-17
+TID3082,Amit Kumar,Lissie,Kaloor,44,1309.35,Corporate,2025-10-09
+TID3083,Reshma Varghese,Aluva,Palarivattom,58,1287.98,Corporate,2025-10-07
+TID3084,Karthik Krishnan,M.G. Road,CUSAT,87,2546.37,Student,2025-10-19
+TID3085,Lakshmi Prasad,Ernakulam South,Palarivattom,33,1051.98,Student,2025-10-12
+TID3086,Divya Pillai,CUSAT,Muttom,25,380.8,Senior Citizen,2025-10-19
+TID3087,Karthik Krishnan,Lissie,Vytila,46,1480.39,Senior Citizen,2025-10-06
+TID3088,Ravi Chandran,Pathadipalam,Muttom,22,634.75,Regular,2025-10-08
+TID3089,Divya Pillai,Kalamassery,Kadavanthra,81,1572.9,Student,2025-10-18
+TID3090,Karthik Krishnan,Muttom,Maharaja’s College,89,3665.18,Corporate,2025-10-07
+TID3091,Gayathri Mohan,Ernakulam South,Lissie,92,2647.57,Student,2025-10-06
+TID3092,Karthik Krishnan,Edappally,Pathadipalam,57,1957.27,Senior Citizen,2025-10-14
+TID3093,Farhan Ali,M.G. Road,Companypady,58,1318.98,Corporate,2025-10-11
+TID3094,Reshma Varghese,Companypady,Kalamassery,41,876.57,Student,2025-10-15
+TID3095,Rahul Raj,Lissie,M.G. Road,64,1913.22,Senior Citizen,2025-10-20
+TID3096,Amit Kumar,Lissie,Kaloor,96,3884.99,Regular,2025-10-09
+TID3097,Priya Nandan,Aluva,Kaloor,60,2058.35,Senior Citizen,2025-10-14
+TID3098,Priya Nandan,Pathadipalam,Changampuzha Park,77,2249.87,Senior Citizen,2025-10-11
+TID3099,Ravi Chandran,Kalamassery,Maharaja’s College,38,1380.06,Regular,2025-10-09
+TID3100,Akhil Thomas,Elamkulam,Aluva,32,901.72,Student,2025-10-07
+TID3101,Neha Suresh,Pulinchodu,Changampuzha Park,70,1775.58,Senior Citizen,2025-10-11
+TID3102,Joseph Mathew,Kaloor,Edappally,75,1788.86,Regular,2025-10-06
+TID3103,Arjun Nair,Kadavanthra,Pulinchodu,66,1510.73,Regular,2025-10-20
+TID3104,Arjun Nair,Pathadipalam,CUSAT,24,604.07,Student,2025-10-17
+TID3105,Priya Nandan,Ambattukavu,Vytila,49,1328.29,Corporate,2025-10-10
+TID3106,Neha Suresh,Vytila,Ambattukavu,42,1544.13,Regular,2025-10-21
+TID3107,Lakshmi Prasad,Elamkulam,Kaloor,72,2829.89,Student,2025-10-19
+TID3108,Akhil Thomas,Pathadipalam,Ambattukavu,60,2186.64,Regular,2025-10-20
+TID3109,Meera Sunil,Kadavanthra,Lissie,69,1346.88,Corporate,2025-10-21
+TID3110,Devika Ramesh,Maharaja’s College,Ambattukavu,77,3081.38,Senior Citizen,2025-10-17
+TID3111,Devika Ramesh,Kalamassery,Kadavanthra,56,1734.49,Senior Citizen,2025-10-07
+TID3112,Devika Ramesh,Elamkulam,Edappally,63,2312.4,Regular,2025-10-13
+TID3113,Karthik Krishnan,Pathadipalam,Maharaja’s College,94,3067.47,Senior Citizen,2025-10-11
+TID3114,Arjun Nair,Maharaja’s College,Palarivattom,45,1223.17,Corporate,2025-10-13
+TID3115,Joseph Mathew,Edappally,Changampuzha Park,93,1741.82,Student,2025-10-19
+TID3116,Divya Pillai,Lissie,Ernakulam South,93,3350.05,Senior Citizen,2025-10-06
+TID3117,Karthik Krishnan,Aluva,Ambattukavu,59,1328.08,Student,2025-10-12
+TID3118,Akhil Thomas,JLN Stadium,Ernakulam South,92,2828.21,Senior Citizen,2025-10-11
+TID3119,Meera Sunil,M.G. Road,Edappally,61,1419.39,Regular,2025-10-15
+TID3120,Joseph Mathew,Ambattukavu,Elamkulam,45,941.96,Senior Citizen,2025-10-13
+TID3121,Akhil Thomas,Ernakulam South,Changampuzha Park,34,1102.02,Corporate,2025-10-14
+TID3122,Meera Sunil,Kalamassery,Palarivattom,23,603.21,Student,2025-10-13
